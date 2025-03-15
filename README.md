@@ -78,10 +78,10 @@ This project demonstrates the use of the Event Emitter pattern in a simple Todo 
 Contributions are welcome! If you find a bug or have an idea for an improvement, please open an issue or submit a pull request.
 
 1.  **Fork the repository.**
-2.  **Create a new branch for your feature or bug fix.**
+2.  **Create a new branch from `develop` for your feature or bug fix.**
 3.  **Make your changes.**
 4.  **Commit your changes and push them to your fork.**
-5.  **Submit a pull request.**
+5.  **Submit a pull request from your new branch to `develop`.**
 
 ## License
 
