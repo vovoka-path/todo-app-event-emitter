@@ -1,7 +1,7 @@
 import { todoApi } from '../api';
 import { EVENT } from '../constants/events';
 import { EventEmitter } from '../utils/EventEmitter';
-import { ITodo } from './interfaces';
+import type { ITodo } from './interfaces';
 
 class TodoStore extends EventEmitter<ITodo> {
   private todos: ITodo[];

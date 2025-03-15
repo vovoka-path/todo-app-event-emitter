@@ -1,5 +1,4 @@
-import { ITodo } from '../../store';
-import todoStore from '../../store/TodoStore';
+import { todoStore, ITodo } from '../../store';
 import TodoItem from '../TodoItem';
 import { EVENT } from '../../constants/events';
 

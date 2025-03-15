@@ -1,6 +1,5 @@
 import type { ITodo } from '../store';
-import { IDatabase } from '../databases';
-import localDatabase from '../databases';
+import { localDatabase, IDatabase } from '../databases';
 import LOCAL_STORAGE_KEYS from '../constants/localStorageKeys';
 
 // Here we can make requests to the API

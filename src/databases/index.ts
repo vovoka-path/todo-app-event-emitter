@@ -1,4 +1,4 @@
 import localDatabase from './LocalStorage';
 
-export default localDatabase;
+export { localDatabase };
 export * from './interfaces';

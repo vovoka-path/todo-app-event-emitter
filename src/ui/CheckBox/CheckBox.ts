@@ -1,5 +1,4 @@
-import { ITodo } from '../../store';
-import todoStore from '../../store/TodoStore';
+import { todoStore, ITodo } from '../../store';
 
 class CheckBox {
   element: HTMLInputElement;
