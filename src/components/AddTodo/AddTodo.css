@@ -1,0 +1,8 @@
+/* styles here*/
+
+.add-todo {
+  padding: 1rem;
+  display: flex;
+  gap: 3rem;
+  background-color: rgb(243, 243, 243);
+}

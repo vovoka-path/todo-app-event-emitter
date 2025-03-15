@@ -1,0 +1,5 @@
+enum LOCAL_STORAGE_KEYS {
+  TODO_LIST = 'TODO_LIST',
+}
+
+export default LOCAL_STORAGE_KEYS;

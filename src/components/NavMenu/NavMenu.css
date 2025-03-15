@@ -1,0 +1,7 @@
+/* styles here*/
+
+.nav-menu {
+  padding: 0 1rem;
+  display: flex;
+  gap: 3rem;
+}
