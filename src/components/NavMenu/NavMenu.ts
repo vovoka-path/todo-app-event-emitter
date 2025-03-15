@@ -1,5 +1,5 @@
 import './NavMenu.css';
-import { RoutesData } from '../../router/interfaces';
+import { RoutesData } from '../../router';
 import { ROUTES_DATA } from '../../constants/routes';
 
 class NavMenu {

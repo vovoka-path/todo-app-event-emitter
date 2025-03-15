@@ -1,5 +1,5 @@
-import type { ITodo } from '../store/interfaces';
-import { IDatabase } from '../databases/interfaces';
+import type { ITodo } from '../store';
+import { IDatabase } from '../databases';
 import localDatabase from '../databases';
 import LOCAL_STORAGE_KEYS from '../constants/localStorageKeys';
 

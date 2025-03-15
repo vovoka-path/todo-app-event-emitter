@@ -1,5 +1,5 @@
 import './AddTodo.css';
-import { ITodo } from '../../store/interfaces';
+import { ITodo } from '../../store';
 import { todoStore } from '../../store';
 import Button from '../../ui/Button';
 import TextInput from '../../ui/TextInput';

@@ -1,4 +1,4 @@
-import { ITodo } from '../../store/interfaces';
+import { ITodo } from '../../store';
 import todoStore from '../../store/TodoStore';
 import TodoItem from '../TodoItem';
 import { EVENT } from '../../constants/events';

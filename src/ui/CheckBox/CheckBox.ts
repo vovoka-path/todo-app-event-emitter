@@ -1,4 +1,4 @@
-import { ITodo } from '../../store/interfaces';
+import { ITodo } from '../../store';
 import todoStore from '../../store/TodoStore';
 
 class CheckBox {

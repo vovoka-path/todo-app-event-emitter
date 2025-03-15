@@ -1,5 +1,5 @@
 import { todoStore } from '../../store';
-import { ITodo } from '../../store/interfaces';
+import { ITodo } from '../../store';
 import Button from '../../ui/Button';
 import CheckBox from '../../ui/CheckBox';
 import Title from '../../ui/Title';
