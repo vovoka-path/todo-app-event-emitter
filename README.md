@@ -21,7 +21,7 @@ This project demonstrates the use of the Event Emitter pattern in a simple Todo 
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/vovoka-path/todo-app-event-emitter.git](https://www.google.com/search?q=https://github.com/vovoka-path/todo-app-event-emitter.git)
+    git clone https://github.com/vovoka-path/todo-app-event-emitter.git
     ```
 
 2.  **Navigate to the project directory:**
